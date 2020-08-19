@@ -1,0 +1,6 @@
+! Catch all regex block
+/googlesyndication.*/
+/adhese.*/
+/padsreds*/
+/bitcoinwayx*/
+/bitcoinnews24*/
