@@ -5,3 +5,4 @@
 /bitcoinwayx.*/
 /bitcoinnews24.*/
 /xcellint.*/
+/sotwinkle.*/
