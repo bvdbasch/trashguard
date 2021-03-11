@@ -1,12 +1,11 @@
-!
-!
-! Title: Trash exotic domains filter
+! Title: Trashguard exotic domains filter
 ! Description: A small list containing the more exotic types of trash found around the internet. Trashguard uses a simplified syntax specifically to be better compatible with DNS-level ad blocking. Feed this to your adblocker and take the garbage out!
 ! Homepage: https://github.com/bvdbasch/trashguard
 ! License: https://github.com/bvdbasch/trashguard/blob/master/LICENSE
-! Last modified: 2021-03-10T19:04:28.234Z
+! Last modified: 2021-03-10T17:47:06 UTC
+! Version:
+! Expires:
 !
-! Catch all regex block
 /googlesyndication.*/
 /adhese.*/
 /padsreds.*/
