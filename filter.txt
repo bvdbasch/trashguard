@@ -2,8 +2,8 @@
 ! Description: A small list containing the more exotic types of trash found around the internet. Trashguard uses a simplified syntax specifically to be better compatible with DNS-level ad blocking. Feed this to your adblocker and take the garbage out!
 ! Homepage: https://github.com/bvdbasch/trashguard
 ! License: https://github.com/bvdbasch/trashguard/blob/master/LICENSE
-! Last modified: 2021-09-21 @425
-! Version:20210504
+! Last modified: 2022-01-22 @729
+! Version:20220122
 ! Expires:
 !
 /googlesyndication.*/
@@ -27,3 +27,4 @@
 /pedigrianalizi.*/
 /psicoachme.*/
 /media7features.*/
+/kabel-gigant.*/
